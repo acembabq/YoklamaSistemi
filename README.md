@@ -7,7 +7,7 @@
 ===========================================================
 
 # Kullanacağımız Teknolojiler
-• React
+• React / C# Form
 
 • C# (.Net Core)
 
