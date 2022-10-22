@@ -27,5 +27,4 @@
 
 • Projeyi mobil teknolojiye taşımak.
 
-• Eski sistemi yenilikçi günümüz teknolojiisine entegre etmek.
-
+• Eski sistemi yenilikçi günümüz teknolojisine entegre etmek.
