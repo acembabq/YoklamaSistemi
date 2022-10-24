@@ -5,6 +5,7 @@
 • Ahmet Seyit ACEMBABA (Backend)
  
 • Çağla Çavuşoğlu (Frontend)
+
 ===========================================================
 
 # Kullanacağımız Teknolojiler
