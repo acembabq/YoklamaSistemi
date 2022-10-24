@@ -1,9 +1,10 @@
 # E-Yoklama Sistemi
 # Ekibimiz
-• Ismet TONGUL (Scrum Master - Frontend)
+• Ismet TONGUL (Scrum Master)
 
-• Ahmet Seyit ACEMBABA (Full Stack Dev.)
+• Ahmet Seyit ACEMBABA (Backend)
 
+• Çağla Çavuşoğlu (Frontend)
 ===========================================================
 
 # Kullanacağımız Teknolojiler
