@@ -3,7 +3,7 @@
 • Ismet TONGUL (Scrum Master)
 
 • Ahmet Seyit ACEMBABA (Backend)
-
+ 
 • Çağla Çavuşoğlu (Frontend)
 ===========================================================
 
